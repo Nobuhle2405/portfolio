@@ -1,0 +1,64 @@
+D:\Retry1\bin\Debug\net8.0\appsettings.Development.json
+D:\Retry1\bin\Debug\net8.0\appsettings.json
+D:\Retry1\bin\Debug\net8.0\assets\vendor\bootstrap-icons\bootstrap-icons.json
+D:\Retry1\bin\Debug\net8.0\Retry1.staticwebassets.runtime.json
+D:\Retry1\bin\Debug\net8.0\Retry1.exe
+D:\Retry1\bin\Debug\net8.0\Retry1.deps.json
+D:\Retry1\bin\Debug\net8.0\Retry1.runtimeconfig.json
+D:\Retry1\bin\Debug\net8.0\Retry1.dll
+D:\Retry1\bin\Debug\net8.0\Retry1.pdb
+D:\Retry1\obj\Debug\net8.0\Retry1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Retry1\obj\Debug\net8.0\Retry1.AssemblyInfoInputs.cache
+D:\Retry1\obj\Debug\net8.0\Retry1.AssemblyInfo.cs
+D:\Retry1\obj\Debug\net8.0\Retry1.csproj.CoreCompileInputs.cache
+D:\Retry1\obj\Debug\net8.0\Retry1.MvcApplicationPartsAssemblyInfo.cache
+D:\Retry1\obj\Debug\net8.0\Retry1.RazorAssemblyInfo.cache
+D:\Retry1\obj\Debug\net8.0\Retry1.RazorAssemblyInfo.cs
+D:\Retry1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Retry1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Retry1\obj\Debug\net8.0\staticwebassets\msbuild.Retry1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Retry1\obj\Debug\net8.0\staticwebassets\msbuild.build.Retry1.props
+D:\Retry1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Retry1.props
+D:\Retry1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Retry1.props
+D:\Retry1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Retry1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Retry1\obj\Debug\net8.0\scopedcss\bundle\Retry1.styles.css
+D:\Retry1\obj\Debug\net8.0\scopedcss\projectbundle\Retry1.bundle.scp.css
+D:\Retry1\obj\Debug\net8.0\Retry1.dll
+D:\Retry1\obj\Debug\net8.0\refint\Retry1.dll
+D:\Retry1\obj\Debug\net8.0\Retry1.pdb
+D:\Retry1\obj\Debug\net8.0\Retry1.genruntimeconfig.cache
+D:\Retry1\obj\Debug\net8.0\ref\Retry1.dll
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\appsettings.Development.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\appsettings.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\Retry1.staticwebassets.runtime.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\Retry1.staticwebassets.endpoints.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\Retry1.exe
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\Retry1.deps.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\Retry1.runtimeconfig.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\Retry1.dll
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\bin\Debug\net8.0\Retry1.pdb
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.AssemblyInfoInputs.cache
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.AssemblyInfo.cs
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.csproj.CoreCompileInputs.cache
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.MvcApplicationPartsAssemblyInfo.cache
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.RazorAssemblyInfo.cache
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.RazorAssemblyInfo.cs
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\scopedcss\bundle\Retry1.styles.css
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\scopedcss\projectbundle\Retry1.bundle.scp.css
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\staticwebassets.build.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\staticwebassets.development.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.dll
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\refint\Retry1.dll
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.pdb
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\Retry1.genruntimeconfig.cache
+E:\GRIT LAB\Nobuhle Ndlovu Portfolio\Nobuhle Ndlovu Portfolio\obj\Debug\net8.0\ref\Retry1.dll

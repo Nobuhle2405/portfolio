@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Retry1.props" />
+</Project>
